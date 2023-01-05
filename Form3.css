@@ -46,13 +46,13 @@
 .box1-1{
     width: 50%;
     background-color: white;
-    height: 140px;
+    height: 145px;
     border-radius: 2px;
 }
 .box1-2{
     width: 50%;
     background-color: white;
-    height: 140px;
+    height: 145px;
     border-radius: 2px;
 
 }
@@ -97,4 +97,34 @@ tr:hover{
     width: 49%;
     background-color: white;
     height: 300px;
+}
+.O1{
+    width: 30px;
+    height: 30px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+    position: absolute;
+    top:570px;
+    left: 915px;
+    color:white;
+}
+.O2{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top:630px;
+    left: 915px;
+    color:white;
+}
+.O3{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(32, 62, 119);
+    border-radius: 50%;
+    position: absolute;
+    top:690px;
+    left: 915px;
+    color:white;
 }
